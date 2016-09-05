@@ -7,7 +7,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/vektra/mockery/mockery"
+	"github.com/alfred-landrum/mockery/mockery"
 )
 
 const regexMetadataChars = "\\.+*?()|[]{}^$"
